@@ -33,7 +33,7 @@ Contribuições são bem-vindas! Se você encontrar problemas, bugs ou tiver ide
 
 ## Licença
 
-Este projeto é licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE) para obter detalhes.
+Este projeto é licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 Divirta-se jogando e boa sorte na forca!
 
